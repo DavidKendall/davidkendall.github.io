@@ -26,11 +26,13 @@ modelling and analysis of embedded systems.
 <li>Member of the Association for Computing Machinery 
   (<a href="http://www.acm.org">ACM</a>)</li>
 <li>Member of the European Association for Theoretical Computer Science
-    (<a href="ext:eatcs">EATCS</a>) and the European
-    Association for Programming Languages and Systems 
-    (<a href="ext:eapls">EAPLS</a>).</li>
+(<a href="http://eatcs.org/">EATCS</a>)</li>
+<li>Member of the European Association for Programming Languages and Systems 
+(<a href="http://eapls.org/">EAPLS</a>).</li>
+<li>Member of Formal Methods Europe
+(<a href="http://www.fmeurope.org/">FME</a>)</li>
 <li>Member of the ACM Special Interest Group on Embedded Systems
-    (<a href="ext:acm/sigbed">ACM SIGBED</a>).</li>
+(<a href="https://www.acm.org/special-interest-groups/sigs/sigbed">ACM SIGBED</a>).</li>
 </ul>
 
 # Schedule

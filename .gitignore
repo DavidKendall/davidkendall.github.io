@@ -1,5 +1,6 @@
 tmp*.*
 /_site
+_site.tgz
 
 /.settings
 /bin

@@ -26,7 +26,7 @@ about it.
 
 * **Quadcopter**
 The [Crazyflie Nano
-Quadcopter](http://www.coolcomponents.co.uk/catalog/crazyflie-nano-quadcopter-p-1205.html)
+Quadcopter](https://www.bitcraze.io/crazyflie-2/)
 is a new open-source development that offers many opportunities for
 interesting projects, e.g. developing firmware for the heading and altitude
 sensors, interfacing a tiny camera, working on algorithms for autonomous
@@ -42,8 +42,8 @@ what steps users can take to enhance their online privacy. You could use your
 project as an opportunity to find out more about some of the technical issues
 involved. For example, you could
     * design and run some experiments using the [Shadow
-      simulator](http://shadow.github.io/) to investigate aspects of the Tor
-      anonymity network,
+simulator](http://shadow.github.io/) to investigate aspects of the 
+[Tor anonymity network](https://www.torproject.org/),
     * develop a prototype P2P anonymity network using
       [Python](http://python.org/) and its network event engine
       [Twisted](http://twistedmatrix.com/trac/wiki), or
