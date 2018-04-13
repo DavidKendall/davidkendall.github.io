@@ -1,0 +1,55 @@
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+title: David Kendall
+subtitle: Senior Lecturer in Computer Science
+authors: David Kendall
+copyyear: 2018
+url: http://hesabu.net
+baseurl: /davidkendall
+raurl: /assets/ra
+rraurl: /assets/ra
+#url: http://localhost:4000
+#raurl: http://localhost:4000/assets/ra
+
+teaching_links:
+   - title: Overview
+     url: teaching.html
+   - title: Projects
+     url: projects.html
+   - title: KF4005
+     url: http://hesabu.net/kf4005
+   - title: KF5010 
+     url: http://hesabu.net/kf5010
+     #rep: blinky
+   - title: KF5011
+     url: http://hesabu.net/kf5011
+     #rep: blinky
+   - title: CM0604
+     url: http://hesabu.net/cm0604
+     #rep: buttons
+   - title: CM0605
+     url: http://hesabu.net/cm0605
+     #rep: interrupt
+   - title: EN0617
+     url: http://hesabu.net/en0617
+     #rep: tasks
+   - title: KF7046
+     url: http://hesabu.net/kf7046
+     #rep: peterson
+
+
+right_links:
+  - title: Research
+    url: research.html
+  - title: Publications
+    url: pubs.html
+  - title: View on GitHub
+    url: https://github.com/davidkendall/www
+
+repo: 

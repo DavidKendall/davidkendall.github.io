@@ -1,0 +1,16 @@
+tmp*.*
+/_site
+
+/.settings
+/bin
+.classpath
+.project
+
+/.idea
+/out
+/*.iml
+/*.ipr
+/*.iws
+
+*~
+*.swp
