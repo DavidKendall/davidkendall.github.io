@@ -7,8 +7,9 @@ license: not needed
 
 <p>
 I teach courses in formal methods, embedded systems, operating systems and
-networking.  Previously, I have taught courses in programming
-and compiler construction. Here is a (partial) list of my current courses:
+networking.  Previously, I have taught courses in programming, software
+engineering, and compiler construction. Here is a (partial) list of my 
+current courses:
 
   <img class="img-responsive" src="assets/images/david_kendall5_1200x800.jpg" 
      alt="Photo of David Kendall"

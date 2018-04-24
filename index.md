@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img src="assets/images/ee-david-kendall255.jpg" alt="Photo of David Kendall"
+<img src="assets/images/kendall.jpg" alt="Photo of David Kendall"
 class="img-responsive"/>
 
 # Short Biography
