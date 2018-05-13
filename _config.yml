@@ -49,7 +49,7 @@ right_links:
     url: research.html
   - title: Publications
     url: pubs.html
-  - title: View on GitHub
-    url: https://github.com/davidkendall/www
+  #- title: View on GitHub
+    #url: https://github.com/davidkendall/www
 
 repo: 
