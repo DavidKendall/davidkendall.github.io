@@ -30,12 +30,12 @@ class="img-responsive" style="margin-bottom: 5px"/>
       <td><strong>E:</strong></td>
       <td><a href="mailto:david.kendall@northumbria.ac.uk">david.kendall@northumbria.ac.uk</a></td>
     </tr>
-    <tr>
-      <td><strong>K:</strong></td>
-      <td><a href="pgp_key.asc">download</a> <br/>
-          (Fingerprint: 575704F7010EA4BA5300CCB0DE06EFE9F8C034F1)
-      </td>
-    </tr>
+    <!--<tr>-->
+      <!--<td><strong>K:</strong></td>-->
+      <!--<td><a href="pgp_key.asc">download</a> <br/>-->
+          <!--(Fingerprint: 575704F7010EA4BA5300CCB0DE06EFE9F8C034F1)-->
+      <!--</td>-->
+    <!--</tr>-->
   </tbody>
 </table>
 </div>
