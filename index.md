@@ -59,7 +59,7 @@ Newcastle University. His research interests include formal
 methods, cyber-physical systems, distributed systems, security, and privacy.
 
 The most up to date record of his publications can be found using his
-<a href="http://scholar.google.co.uk/citations?user=aKeklVAAAAAJ">Google Scholar Profile</a>.
+<a href="https://scholar.google.co.uk/citations?hl=en&user=aKeklVAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>.
 
 <h1>Professional Activities</h1>
 <ul>
