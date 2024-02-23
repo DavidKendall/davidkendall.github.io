@@ -11,7 +11,6 @@ class="img-responsive" style="margin-bottom: 5px"/>
 <table class="table-responsive">
   <!--<thead> <tr> <th> </th> <th> </th> </tr> </thead>-->
   <tbody>
-    <tr>
     <!--<tr>-->
       <!--<td><strong>R:</strong></td>-->
       <!--<td>ELB 211</td>-->
