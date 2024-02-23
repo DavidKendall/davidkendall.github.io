@@ -18,7 +18,7 @@ current courses:
 
 <ul>
   <li><a href="{{ url }}{{ baseurl }}kf5010">KF5010 Operating Systems and Concurrency</a></li>
-  <li><a href="{{ url }}{{ baseurl }}kf5010">KV5002 Computer networks, security and operating systems</a></li>
+  <li><a href="{{ url }}{{ baseurl }}kv5002">KV5002 Computer networks, security and operating systems</a></li>
   <li><a href="{{ url}}{{ baseurl}}kf6009">KF6009 Model-based design and verification</a></li>
   <li><a href="{{ url}}{{ baseurl }}kf6010">KF6010 Distributed real-time systems</a></li>
   <li><a href="{{ url }}{{ baseurl }}kf7046">KF7046 Computer Network Implementation</a></li>
