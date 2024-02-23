@@ -22,26 +22,18 @@ teaching_links:
      url: teaching.html
    - title: Projects
      url: projects.html
-   - title: KF4005
-     url: kf4005
+   - title: KV5002
+     url: kv5002
    - title: KF5010 
      url: kf5010
-     #rep: blinky
-   - title: KF5011
-     url: kf5011
-     #rep: blinky
    - title: CM0604
      url: cm0604
-     #rep: buttons
-   - title: CM0605
-     url: cm0605
-     #rep: interrupt
-   - title: EN0617
-     url: en0617
-     #rep: tasks
+   - title: KF6009
+     url: kf6009
+   - title: KF6010
+     url: kf6010
    - title: KF7046
      url: kf7046
-     #rep: peterson
 
 
 right_links:

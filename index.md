@@ -12,12 +12,6 @@ class="img-responsive" style="margin-bottom: 5px"/>
   <!--<thead> <tr> <th> </th> <th> </th> </tr> </thead>-->
   <tbody>
     <tr>
-      <td><strong>A:</strong></td>
-      <td>Northumbria University <br/>
-          Department of Computing and Information Sciences <br/>
-          Ellison Building, Newcastle upon Tyne, NE1 8ST, UK
-      </td>
-    </tr>
     <!--<tr>-->
       <!--<td><strong>R:</strong></td>-->
       <!--<td>ELB 211</td>-->
@@ -28,12 +22,12 @@ class="img-responsive" style="margin-bottom: 5px"/>
     <!--</tr>-->
     <tr>
       <td><strong>E:</strong></td>
-      <td><a href="mailto:david.kendall@northumbria.ac.uk">david.kendall@northumbria.ac.uk</a></td>
+      <td><a href="mailto:dk0@posteo.com">dk0@posteo.com</a></td>
     </tr>
     <tr>
       <td><strong>K:</strong></td>
       <td><a href="pgp_key.asc">download</a> <br/>
-          (Fingerprint: 4027 3D09 0B20 3BA0 D38F  C0F3 EB32 9BBD 76B0 0B35)
+          (Fingerprint: 0F18 D356 DA3F FA6A 1701 AF5D 7CF8 6D3E 275A 2224)
       </td>
     </tr>
   </tbody>

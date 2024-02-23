@@ -17,10 +17,11 @@ current courses:
 </p>
 
 <ul>
-  <li><a href="http://hesabu.net/cm0604/">CM0604 Embedded Systems Specification and Design</a></li>
-  <li><a href="http://hesabu.net/cm0605/">CM0605 Embedded Systems Engineering</a></li>
-  <li><a href="http://hesabu.net/kf5010">KF5010 Operating Systems and Concurrency</a></li>
-  <li><a href="http://hesabu.net/kf7046">KF7046 Computer Network Implementation</a></li>
+  <li><a href="{{ url }}{{ baseurl }}kf5010">KF5010 Operating Systems and Concurrency</a></li>
+  <li><a href="{{ url }}{{ baseurl }}kf5010">KV5002 Computer networks, security and operating systems</a></li>
+  <li><a href="{{ url}}{{ baseurl}}kf6009">KF6009 Model-based design and verification</a></li>
+  <li><a href="{{ url}}{{ baseurl }}kf6010">KF6010 Distributed real-time systems</a></li>
+  <li><a href="{{ url }}{{ baseurl }}kf7046">KF7046 Computer Network Implementation</a></li>
 </ul>
 
 # Projects
