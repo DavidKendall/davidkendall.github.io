@@ -23,24 +23,24 @@ teaching_links:
    - title: Projects
      url: projects.html
    - title: KF4005
-     url: http://hesabu.net/kf4005
+     url: kf4005
    - title: KF5010 
-     url: http://hesabu.net/kf5010
+     url: kf5010
      #rep: blinky
    - title: KF5011
-     url: http://hesabu.net/kf5011
+     url: kf5011
      #rep: blinky
    - title: CM0604
-     url: http://hesabu.net/cm0604
+     url: cm0604
      #rep: buttons
    - title: CM0605
-     url: http://hesabu.net/cm0605
+     url: cm0605
      #rep: interrupt
    - title: EN0617
-     url: http://hesabu.net/en0617
+     url: en0617
      #rep: tasks
    - title: KF7046
-     url: http://hesabu.net/kf7046
+     url: kf7046
      #rep: peterson
 
 

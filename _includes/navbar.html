@@ -14,7 +14,7 @@
           <ul class="nav navbar-nav">
             {% for link in site.links %}
               <li class="{% if page.url == link.url %} active{% endif %}">
-                <a href="{{ link.url }}">{{ link.title }}</a>
+                  <a href="{{ url}}{{ baseurl}}{{ link.url }}">{{ link.title }}</a>
               </li>
             {% endfor %}
           </ul>
@@ -24,7 +24,7 @@
               <ul class="dropdown-menu">
                 {% for link in site.teaching_links %}
                   <li class="{% if page.url == link.url %} active{% endif %}">
-                    <a href="{{ link.url }}">{{ link.title }}</a>
+                      <a href="{{ url }}{{ baseurl }}{{ link.url }}">{{ link.title }}</a>
                   </li>
                 {% endfor %}
               </ul>
