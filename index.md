@@ -21,12 +21,12 @@ class="img-responsive" style="margin-bottom: 5px"/>
     <!--</tr>-->
     <tr>
       <td><strong>E:</strong></td>
-      <td><a href="mailto:dk0@posteo.com">dk0@posteo.com</a></td>
+      <td><a href="mailto:dk0@posteo.me">dk0@posteo.me</a></td>
     </tr>
     <tr>
       <td><strong>K:</strong></td>
       <td><a href="pgp_key.asc">download</a> <br/>
-          (Fingerprint: 0F18 D356 DA3F FA6A 1701 AF5D 7CF8 6D3E 275A 2224)
+          (Fingerprint: E4FF 3F22 B6AD 577F 5D5B 90BA ED6A 4A72 9A29 C07D)
       </td>
     </tr>
   </tbody>
